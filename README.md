@@ -16,3 +16,4 @@ This searching also works when multiple criteria are entered, such as looking fo
 ![image](https://user-images.githubusercontent.com/108832056/193477920-d0832bc3-e8ec-48e5-a65d-d9d47f325df3.png)
 
 ## Summary
+One drawback of the webpage and associated displayed data is that not much data exists for countries besides the United States and Canada. 
