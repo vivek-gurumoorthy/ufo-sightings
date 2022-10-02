@@ -12,5 +12,7 @@ The table before entering search criteria:
 The table after entering search criteria:
 ![image](https://user-images.githubusercontent.com/108832056/193477820-095e33ec-6f23-4ec8-86c9-8ecdca4843e9.png)
 
+This searching also works when multiple criteria are entered, such as looking for all sightings that occur in the United States and consist of a circular UFO:
+![image](https://user-images.githubusercontent.com/108832056/193477920-d0832bc3-e8ec-48e5-a65d-d9d47f325df3.png)
 
 ## Summary
