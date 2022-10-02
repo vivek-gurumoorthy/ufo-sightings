@@ -17,3 +17,7 @@ This searching also works when multiple criteria are entered, such as looking fo
 
 ## Summary
 One drawback of the webpage and associated displayed data is that not much data exists for countries besides the United States and Canada. 
+
+Opportunities for the further development of this wepbage could be:
+1. Trying to add table summary statistics that are generated after each iteration of filtering.
+2. Trying to find additional data available on the web for alternate explanations for these supernatural phenomena from police reports and/or news articles.
