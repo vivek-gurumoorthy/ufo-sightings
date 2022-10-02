@@ -4,5 +4,13 @@
 The webpage resulting from this analysis aims to describe all the UFO sightings that meet certain user-entered criteria. This can give the user a information about the prevalence and history of these supernatural phenomena.
 
 ## Results
+A search on the webpage and a change in the information displayed in the table is performed by entering desired search terms in each of the search bars as necessary. For example, if a user were to look for the UFO sightings in which the city was "benton", the user would enter "benton" in the "Enter a City" parameter and press Enter. The resulting table would only include the UFO sightings that meet this specific criteria. 
+
+The table before entering search criteria:
+![image](https://user-images.githubusercontent.com/108832056/193477805-ce8ca820-b720-4a71-a204-73056905bc99.png)
+
+The table after entering search criteria:
+![image](https://user-images.githubusercontent.com/108832056/193477820-095e33ec-6f23-4ec8-86c9-8ecdca4843e9.png)
+
 
 ## Summary
